@@ -3,7 +3,7 @@ My very first introductory class in my journey as a computer science student at 
 This course was designed to introduce me to Python and establish foundational knowledge of various programming concepts including algorithm design, control structures, sorts and searches, data structures, and programming techniques.
 
 Topics covered are as follows:
-  - Introduction to Python and Turle Package
+  - Introduction to Python and Turtle Package
   - Functions
   - Parameters/Values
   - Conditionals
