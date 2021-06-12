@@ -1,4 +1,4 @@
-<div align='center'> <h1> Homework 5: Testing and Debugging </h1>
+<div align='center'> <h1> Homework 6: Testing and Debugging </h1>
 
 ### Description:
   
