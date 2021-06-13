@@ -1,4 +1,4 @@
-<div align='center'> <h1> Homework 12: Turtle Drawing </h1>
+<div align='center'> <h1> Homework 12: Hashing </h1>
 
 ### Description:
   
