@@ -1,11 +1,8 @@
-<div align='center'> <h1> Homework 2: Turtle Drawing </h1>
+<div align='center'> <h1> Labs </h1>
 
-### Description:
+This folder contains all the labs assigned by my professor to assess our knowledge of the material presented that week. 
   
-We were tasked to write a function that computes the real roots of a quadratic equation, prints the equation and the number of roots. The main function would take in user input for the constants a,b,c to plug into the function.
+These were longer, more complex projects with more details and functionalities to implement. 
  
-The program file also includes at least 10 tests that try different combinations of categories of a, b, and c and produce different kinds of results.
-  
-### Output:
- 
- ![Alt text](hw02_output.jpg)
+Each folder describes a different assignment for a different topic and will display the description as well as the grade of the project. The purpose of this is to be show transparency of both my strengths and shortcomings across each assignment.
+
