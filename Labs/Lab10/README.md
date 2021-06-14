@@ -8,4 +8,6 @@ The text files are used as input for building the mobiles and are to be used as 
   
 ### Output:
  
- ![Alt text](lab10_output.jpg)
+ ![Alt text](lab10_output_1.jpg)
+  
+ ![Alt text](lab10_output_2.jpg)
